@@ -12,7 +12,7 @@
 | 08.     | [⚽ Pelusa](https://academy.quillaudits.com/challenges/quillctf-challenges/pelusa) | Solidity Security | Medium | 200 | |
 | 09.     | [🔶WETH-10](https://academy.quillaudits.com/challenges/quillctf-challenges/weth-10) | Solidity Security | Medium | 200 | ✅|
 | 10.     | [🚪 Gate](https://academy.quillaudits.com/challenges/quillctf-challenges/gate) | Solidity Security | Hard | 300 | |
-| 11.     | [🐼 Panda Token](https://academy.quillaudits.com/challenges/quillctf-challenges/panda-token) | Solidity Security | Medium | 200 | |
+| 11.     | [🐼 Panda Token](https://academy.quillaudits.com/challenges/quillctf-challenges/panda-token) | Solidity Security | Medium | 200 | ✅ |
 | 12.     | [💠 WETH-11](https://academy.quillaudits.com/challenges/quillctf-challenges/weth-11) | DeFi Security | Medium | 200 | ✅ |
 | 13.     | [💰 Donate](https://academy.quillaudits.com/challenges/quillctf-challenges/donate) | DeFi Security | Easy | 100 | ✅ |
 | 14.     | [🛅 Moloch's Vault](https://academy.quillaudits.com/challenges/quillctf-challenges/molochs-vault) | DeFi Security | Hard | 300 | |
