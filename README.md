@@ -17,7 +17,7 @@
 | 13.     | [💰 Donate](https://academy.quillaudits.com/challenges/quillctf-challenges/donate) | DeFi Security | Easy | 100 | ✅ |
 | 14.     | [🛅 Moloch's Vault](https://academy.quillaudits.com/challenges/quillctf-challenges/molochs-vault) | DeFi Security | Hard | 300 | |
 | 15.     | [🧮 Slot Puzzle](https://academy.quillaudits.com/challenges/quillctf-challenges/slot-puzzle) | Solidity Security | Hard | 300 | |
-| 16.     | [🪙 Gold NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/gold-nft) | Solidity Security | Medium | 200 | |
+| 16.     | [🪙 Gold NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/gold-nft) | Solidity Security | Medium | 200 | ✅ |
 | 17.     | [🎲 PseudoRandom](https://academy.quillaudits.com/challenges/quillctf-challenges/pseudorandom) | Solidity Security | Easy | 100 | |
 | 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | DeFi Security | Medium | 200 | |
 | 19.     | [🙈 Predictable NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/predictable-nft) | Solidity Security | Easy | 100 | ✅ |
