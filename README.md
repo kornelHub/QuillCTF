@@ -9,7 +9,7 @@
 | 05.     | [📲 D31eg4t3](https://academy.quillaudits.com/challenges/quillctf-challenges/d31eg4t3) | Solidity Security | Easy | 100 | ✅ |
 | 06.     | [🧩 Collatz Puzzle](https://academy.quillaudits.com/challenges/quillctf-challenges/collatz-puzzle) | EVM | Hard | 300 | |
 | 07.     | [🪧 True Xor](https://academy.quillaudits.com/challenges/quillctf-challenges/true-xor) | EVM | Hard | 300 | |
-| 08.     | [⚽ Pelusa](https://academy.quillaudits.com/challenges/quillctf-challenges/pelusa) | Solidity Security | Medium | 200 | |
+| 08.     | [⚽ Pelusa](https://academy.quillaudits.com/challenges/quillctf-challenges/pelusa) | Solidity Security | Medium | 200 | ✅ |
 | 09.     | [🔶WETH-10](https://academy.quillaudits.com/challenges/quillctf-challenges/weth-10) | Solidity Security | Medium | 200 | ✅|
 | 10.     | [🚪 Gate](https://academy.quillaudits.com/challenges/quillctf-challenges/gate) | Solidity Security | Hard | 300 | |
 | 11.     | [🐼 Panda Token](https://academy.quillaudits.com/challenges/quillctf-challenges/panda-token) | Solidity Security | Medium | 200 | ✅ |
