@@ -4,7 +4,7 @@
 |---------|------------|-------------------|------------|---------| ---------|
 | 01.     | [🛣️ Road Block](https://academy.quillaudits.com/challenges/quillctf-challenges/road-closed) | Solidity Security | Easy     | 100      | ✅ |
 | 02.     | [🏦 VIP Bank](https://academy.quillaudits.com/challenges/quillctf-challenges/vip-bank) | Solidity Security | Easy     | 100      | ✅ |
-| 03.     | [🔒 Confidential Hash](https://academy.quillaudits.com/challenges/quillctf-challenges/ctf02) | Solidity Security | Easy     | 100      | |
+| 03.     | [🔒 Confidential Hash](https://academy.quillaudits.com/challenges/quillctf-challenges/ctf02) | Solidity Security | Easy     | 100      | ✅ |
 | 04.     | [🛡️ Safe NFT](https://academy.quillaudits.com/quillctf-challenges/bulletproof-nft) | Solidity Security | Medium     | 200      | invalid link :/ |
 | 05.     | [📲 D31eg4t3](https://academy.quillaudits.com/challenges/quillctf-challenges/d31eg4t3) | Solidity Security | Easy | 100 | ✅ |
 | 06.     | [🧩 Collatz Puzzle](https://academy.quillaudits.com/challenges/quillctf-challenges/collatz-puzzle) | EVM | Hard | 300 | |
