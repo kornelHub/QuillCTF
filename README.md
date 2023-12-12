@@ -25,4 +25,4 @@
 | 21.     | [🕺 Private Club](https://academy.quillaudits.com/challenges/quillctf-challenges/private-club) | DeFi Security | Easy | 100 | ✅ |
 | 21.     | [⭐ Lottery](https://academy.quillaudits.com/challenges/quillctf-challenges/lottery) | EVM | Medium | 200 | |
 | 22.     | [🔑 KeyCraft](https://academy.quillaudits.com/challenges/quillctf-challenges/keycraft) | Solidity Security | Hard     | 300      | |
-| 23.     | [📱TemporaryVariable](https://academy.quillaudits.com/challenges/quillctf-challenges/temporaryvariable) | Solidity Security | Easy     | 100      | |
+| 23.     | [📱TemporaryVariable](https://academy.quillaudits.com/challenges/quillctf-challenges/temporaryvariable) | Solidity Security | Easy     | 100      | ✅ |
