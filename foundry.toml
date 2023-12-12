@@ -3,6 +3,8 @@ src = "src"
 out = "out"
 libs = ["lib"]
 remappings = ["@openzeppelin/=lib/openzeppelin-contracts/"]
+sender = '0x9dF0C6b0066D5317aA5b38B36850548DaCCa6B4e'
+tx_origin = '0x9dF0C6b0066D5317aA5b38B36850548DaCCa6B4e'
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
 [rpc_endpoints]
